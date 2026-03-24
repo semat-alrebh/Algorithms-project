@@ -1,6 +1,6 @@
 # 🚦 Real-Time Traffic Routing Using Dijkstra and A*
 
-> CSC 301: Algorithm Analysis and Design — Group 5, Section Y1  
+> Algorithm Analysis and Design
 > Academic Year 2025/2026 (2nd Term)
 
 ---
