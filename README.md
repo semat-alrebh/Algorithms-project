@@ -31,39 +31,6 @@ The two algorithms implemented and compared are:
 - Python 3.x
 - VS Code (or any Python IDE)
 
-### Install dependencies
-```bash
-pip install pandas networkx matplotlib
-```
-
-### Download the dataset
-1. Go to https://snap.stanford.edu/data/roadNet-CA.html
-2. Download `roadNet-CA.txt.gz`
-3. Extract it and place `roadNet-CA.txt` in the project folder
-
----
-
-## 🚀 How to Run
-
-```bash
-python traffic_graph_setup.py
-```
-
-This script will:
-1. Load and clean the dataset
-2. Convert it into a graph
-3. Save a visualization as `graph_screenshot.png`
-
----
-
-## 📁 Project Structure
-
-```
-📦 traffic-routing
- ┣ 📄 README.md
- ┣ 📄 traffic_graph_setup.py       # Data loading, cleaning, graph setup
- ┣ 📄 roadNet-CA.txt               # Dataset (download separately)
- ┗ 📄 graph_screenshot.png         # Graph visualization output
 ```
 
 ---
