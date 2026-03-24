@@ -31,8 +31,6 @@ The two algorithms implemented and compared are:
 - Python 3.x
 - VS Code (or any Python IDE)
 
-```
-
 ---
 
 ## 📊 Graph Visualization
@@ -75,5 +73,8 @@ Metrics compared: **execution time** and **path optimality**
 
 - **Python** — main programming language
 - **Pandas** — data cleaning and manipulation
+- **NetworkX** — graph construction and algorithms
+- **Matplotlib** — graph visualization
+
 - **NetworkX** — graph construction and algorithms
 - **Matplotlib** — graph visualization
