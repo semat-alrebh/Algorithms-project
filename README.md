@@ -13,18 +13,6 @@ The two algorithms implemented and compared are:
 - **Dijkstra's Algorithm** — guarantees the shortest path in weighted graphs with non-negative edges
 - **A\* Algorithm** — uses heuristic information to guide the search more efficiently toward the destination
 
----
-
-## 👩‍💻 Group Members
-
-| Name | Role |
-|------|------|
-| Maria AlOmran | Leader |
-| Maryam Almajed | |
-| Leen Aljarrash | |
-| Semat Alrebh | |
-| Shatha AlDossary | |
-| Fatimah Abdullah Al-Marrar | |
 
 ---
 
